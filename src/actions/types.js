@@ -1,0 +1,5 @@
+export const CREATE_USER = "CREATE_USER";
+export const RETRIEVE_USERS = "RETRIEVE_USERS";
+
+
+export const RETRIEVE_COUNTRIES = "RETRIEVE_COUNTRIES";
